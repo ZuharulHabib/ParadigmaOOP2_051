@@ -14,3 +14,8 @@ public:
 		cout << "orang dihapus\n";
 	}
 };
+
+class manusia {
+public:
+	
+};
